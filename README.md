@@ -28,7 +28,7 @@
   ## Questions
   - GitHub: RafaelH731
   - Email: rafaelherrera731@gmail.com
-  - https://young-taiga-11060.herokuapp.com/
+  - https://rafaelh731.github.io/react-portfolio/
   
   ## Screenshots
   - ![WebsiteScreenshot](./portfolio/src/components/pages/img/portfolio-screenshot.png)

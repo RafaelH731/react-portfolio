@@ -13,7 +13,7 @@ export default function Contact() {
     <div className="flex">
       <h1> Click Me!</h1>
       <div
-      onClick={() => openInNewTab('https://github.com/RafaelH731')}>
+      onClick={() => openInNewTab('https://docs.google.com/document/d/1Z4YHarDsZbOfJWHWgsRKyX4VroBQBrU2YK8kSFhSLwQ/edit?usp=sharing')}>
       <Icon.FilePersonFill color="royalblue" size={205} 
       className="flex"/>
       

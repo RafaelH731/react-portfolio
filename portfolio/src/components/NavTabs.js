@@ -26,7 +26,7 @@ function NavTabs({ currentPage, handlePageChange }) {
 
           className={currentPage === 'PortfolioGrid' ? 'nav-link active' : 'nav-link'}
         >
-          PortfolioGrid
+          Portfolio
         </a>
       </li>
       <li>

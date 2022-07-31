@@ -11,6 +11,7 @@ export default function Contact() {
   
   return (
     <div>
+      <h1> Click Me!</h1>
       <div
       onClick={() => openInNewTab('https://github.com/RafaelH731')}>
       <Icon.FilePersonFill color="royalblue" size={205} />
@@ -23,7 +24,7 @@ export default function Contact() {
       </div>
 
       <div
-      onClick={() => openInNewTab('https://github.com/RafaelH731')}>
+      onClick={() => openInNewTab('https://www.linkedin.com/in/rafael-herrera-016006238/')}>
       <Icon.Linkedin color="royalblue" size={205} />
       </div>
 

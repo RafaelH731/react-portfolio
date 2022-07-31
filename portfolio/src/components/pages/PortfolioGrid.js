@@ -46,7 +46,7 @@ function PortfolioGrid() {
       {projects.map((_, idx) => (
         <Col key={idx}>
           <Card>
-            <a href={_.link} target={"_blank"}>
+            <a href={_.link} >
             <Card.Img
               variant="top"
               src={_.image}

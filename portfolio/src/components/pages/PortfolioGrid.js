@@ -21,28 +21,28 @@ const projects = [
     number: 2,
     title: "ZenTen",
     image: zen,
-    description: "This application allows the user to select parameters to enjoy quotes and pictures that match the selected options.",
+    description: "Zenten is the first project that was a group project alongside Julia Davis, Isaac Luton, Revy Torres and myself. This application used bulma as the CSS framework and Javascript alsonside two APIs. The applicatin allows the user to select a time that they would like to relax and choose from 5 themes. It will then pull a random quote and image that will cycle after an interval time.",
     link: "https://juliakhdavis.github.io/zenTen/"
   },
   {
     number: 3,
     title: "Work Day Scheduler",
     image: dayScheduler,
-    description: "This application allows the user to edit different text boxes corresponding to different hours, it then saves their To Dos in local storage.",
+    description: "This application allows the user to save task in an hour slot and save onto local storage. This application uses local storage and moment.js to keep track of time of day and to save the text into a textbox.",
     link: "https://rafaelh731.github.io/work-day-scheduler/"
   },
   {
     number: 4,
     title: "Password Generator",
     image: passwordGenerator,
-    description: "This is an application that allows the user to select different parameters for the program to create a password that matches their selection.",
+    description: "This application take input from the user to create a password from the user preferences. This is my first assignment that I was able to solve problems to make the application work. It is a simple program now but it is a reminder of how far I have come with all the technologies I have been learning.",
     link: "https://rafaelh731.github.io/password-generator/"
   },
 ];
 
 function PortfolioGrid() {
   return (
-    <Row xs={1} md={2} className="g-4">
+    <Row xs={1} md={2} className="g-4 background">
       {projects.map((_, idx) => (
         <Col key={idx}>
           <Card>

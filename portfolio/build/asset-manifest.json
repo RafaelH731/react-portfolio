@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0de1388b.css",
+    "main.js": "/static/js/main.12ef14cf.js",
+    "static/media/zenten.png": "/static/media/zenten.ccc0fdff295bfd70bb74.png",
+    "static/media/day-scheduler-screenshot.png": "/static/media/day-scheduler-screenshot.e029be61baafcd24e78f.png",
+    "static/media/dotify-screenshot.png": "/static/media/dotify-screenshot.775387f93bf6a8cf38c9.png",
+    "static/media/passwordgenerator.png": "/static/media/passwordgenerator.3ab60ad141875939add8.png",
+    "static/media/profile-pic.webp": "/static/media/profile-pic.92f39b3fd70e5d1f4d1c.webp",
+    "index.html": "/index.html",
+    "main.0de1388b.css.map": "/static/css/main.0de1388b.css.map",
+    "main.12ef14cf.js.map": "/static/js/main.12ef14cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0de1388b.css",
+    "static/js/main.12ef14cf.js"
+  ]
+}
